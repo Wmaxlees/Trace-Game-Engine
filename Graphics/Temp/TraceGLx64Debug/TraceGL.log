@@ -1,0 +1,22 @@
+﻿Build started 3/14/2014 12:41:20 AM.
+     1>Project "C:\Users\max\Documents\Trace\Graphics\TraceGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Temp\TraceGLx64Debug\\" /Fd".\Temp\TraceGLx64Debug\vc110.pdb" /Gd /TP /errorReport:prompt Source\Err.cpp Source\Graphics.cpp Source\Model.cpp Source\TraceGL.cpp
+         TraceGL.cpp
+         Graphics.cpp
+         Err.cpp
+         Generating Code...
+         Compiling...
+         Model.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\Lib.exe /OUT:".\Lib\TraceGLx64Debug\TraceGLx64Debug.lib" /NOLOGO /MACHINE:X64 .\Temp\TraceGLx64Debug\Err.obj
+         .\Temp\TraceGLx64Debug\Graphics.obj
+         .\Temp\TraceGLx64Debug\Model.obj
+         .\Temp\TraceGLx64Debug\TraceGL.obj
+         TraceGL.vcxproj -> C:\Users\max\Documents\Trace\Graphics\.\Lib\TraceGLx64Debug\TraceGLx64Debug.lib
+     1>Done Building Project "C:\Users\max\Documents\Trace\Graphics\TraceGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.25

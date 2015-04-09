@@ -1,0 +1,16 @@
+﻿Build started 4/8/2014 12:50:31 AM.
+     1>Project "C:\Users\max\Documents\Trace\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Temp\Gamex64Debug\\" /Fd".\Temp\Gamex64Debug\vc110.pdb" /Gd /TP /errorReport:prompt Source\GameViewLayer.cpp Source\main.cpp
+         GameViewLayer.cpp
+     1>c:\users\max\documents\trace\game\source\../../Engine/Source/TraceEngine.h(1): fatal error C1014: too many include files : depth = 1024
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>c:\users\max\documents\trace\game\source\GameViewLayer.h(3): fatal error C1014: too many include files : depth = 1024
+         Generating Code...
+     1>Done Building Project "C:\Users\max\Documents\Trace\Game\Game.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.11
